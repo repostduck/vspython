@@ -76,5 +76,5 @@ def getSum(num1, num2):
 
 # lambda function: can take any number of argumens but can only have one expression
 
-lamSum = lambda num1,num2: num1 + nums2
+lamSum = lambda num1,num2: num1 + num2
 print(lamSum(10,3)) 
