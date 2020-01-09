@@ -31,7 +31,7 @@ print(numbers[0], nums2[2])
 
 #tuples -cannot be changed, but otherwise same as a list
 tuple1 = ('1', '2', '3')
-tuple2 = ('0',)
+tuple2 = ('0')
 
 #can be indexed via zero based, but you can't change a value
 #len(tuple), del tuple
